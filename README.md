@@ -15,7 +15,7 @@ and not thoroughly bug-checked! Like, at all!
 
 For those of you dead-set on using this code-breaking disaster, it is relatively straightforward:
 1. Input encoded string when prompted by ">>"
-2. Watch in wonder as the console spits out a just-barely comprehensible list of EVERY POSSIBLE CIPHER(not quite, but it sure is quite a few of them).
+2. Watch in wonder as the console spits out a just-barely comprehensible list of EVERY POSSIBLE CIPHER!(not quite, but it sure is quite a few of them).
 
 HOW IT WORKS:
 This program takes the following steps:
