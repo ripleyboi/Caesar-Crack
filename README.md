@@ -4,7 +4,7 @@ Caesar-cipher bruteforce program
 A Caesar cipher is an insecure method of encryption involving "shifting" letters forwards or backwards based on a "shift key" in order to hide information.
 Each letter is assigned a number 1-26, and has the number of the shift key(e.g. 3) added to it.
 This is then changed backed into letters resulting in a scrambled message.
-For example: "hello" -> "khoor" with a key of 3
+For example: "hello" -> "khoor", with a key of 3
 
 This is extremely insecure, as if you simply guess every key, you will crack the cipher.
 
