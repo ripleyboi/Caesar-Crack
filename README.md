@@ -28,6 +28,6 @@ This program takes the following steps:
 7. Print
 8. Increase key by 1
 9. Repeat until key=26
-(10). Loop from a->z or z->a if necessary
+10. Loop from a->z or z->a if necessary
 
 NOTE 2: For parsing reasons, all characters will be changed to lowercase.
