@@ -11,7 +11,7 @@ This is extremely insecure, as if you simply guess every key, you will crack the
 I have created this program to demonstrate that even a sub-par programmer like myself can very easily write a program that breaks low level encryption such as this.
 
 NOTE: This program is not meant to be used! It is a proof of concept as to how easy breaking Caesar ciphers is and as such is: not user friendly, not optimized,
-and not thoroughly bug-checked!
+and not thoroughly bug-checked! Like, at all!
 
 For those of you dead-set on using this code-breaking disaster, it is relatively straightforward:
 1. Input encoded string when prompted by ">>"
